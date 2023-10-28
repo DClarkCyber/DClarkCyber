@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/DClarkCyber)
+  - [AWS Security Traffic Monitoring and Packet Analysis](https://github.com/DClarkCyber)
 
 
 <h2>📄 Certifications</h2>
