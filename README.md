@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daniel! <br/><a href="https://github.com/DClarkCyber" <a href="https://www.linkedin.com/in/danieljclark92/">Cybersecurity Professional</a>
+<h1>Hi, I'm Daniel Clark! <br/><a href="https://github.com/DClarkCyber" <a href="https://www.linkedin.com/in/danieljclark92/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
