@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [AWS Security Traffic Monitoring and Packet Analysis]([https://github.com/DClarkCyber](https://github.com/DClarkCyber/AWS-Security-Traffic-Monitoring-and-Packet-Analysis))
+  - [AWS Security Traffic Monitoring and Packet Analysis](https://github.com/DClarkCyber/AWS-Security-Traffic-Monitoring-and-Packet-Analysis)
 
 
 <h2>📄 Certifications</h2>
